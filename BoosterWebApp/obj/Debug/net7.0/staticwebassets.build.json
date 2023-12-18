@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "STNhTJewOzwQW9UF1mHbWtgphAMZGMWkAoZOYPaGe+k=",
+  "Source": "BoosterWebApp",
+  "BasePath": "_content/BoosterWebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
